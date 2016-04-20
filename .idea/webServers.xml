@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fee0c463-fb93-4b0d-9967-8630c260fec8" name="vagrant" url="http://127.0.0.1">
+        <fileTransfer host="127.0.0.1" port="2222" accessType="SFTP" username="vagrant">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

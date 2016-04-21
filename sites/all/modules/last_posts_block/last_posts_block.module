@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the last posts block feature.
+ */
+
+include_once 'last_posts_block.features.inc';
